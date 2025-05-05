@@ -1,0 +1,120 @@
+ /* .take-order-container {
+    text-align: center;
+    padding: 20px;
+  }
+  
+  .create-order-btn {
+    padding: 10px 15px;
+    font-size: 16px;
+    color: white;
+    background-color: #28a745;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: 0.3s;
+  }
+  
+  .create-order-btn:hover {
+    background-color: #218838;
+  }
+  
+  .order-table {
+    margin-top: 20px;
+    padding: 15px;
+    border-radius: 10px;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
+    background: white;
+  }
+  
+  .datetime {
+    font-size: 14px;
+    margin-bottom: 10px;
+    font-weight: bold;
+    color: #555;
+  }
+  
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 10px;
+  }
+  
+  th, td {
+    border: 1px solid #ddd;
+    padding: 10px;
+    text-align: center;
+  }
+  
+  th {
+    background: #007bff;
+    color: white;
+  }
+  
+  input {
+    width: 100%;
+    padding: 5px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  .add-row-btn {
+    margin-top: 10px;
+    padding: 8px 12px;
+    font-size: 14px;
+    background: #ffc107;
+    color: black;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .add-row-btn:hover {
+    background: #e0a800;
+  }
+   */
+
+   .take-order-container {
+    text-align: center;
+    padding: 20px;
+  }
+  
+  .order-table {
+    margin-top: 20px;
+    padding: 20px;
+    background: #fff;
+    border-radius: 8px;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  th, td {
+    padding: 10px;
+    border: 1px solid #ddd;
+  }
+  
+  input {
+    width: 100%;
+    padding: 5px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+  }
+  
+  .small-btn {
+    padding: 8px 15px;
+    margin: 5px;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+    transition: 0.3s;
+  }
+  
+  .create-btn { background: #007bff; color: white; }
+  .save-btn { background: #28a745; color: white; }
+  .remove-btn { background: #dc3545; color: white; }
+  .edit-btn { background: #ffc107; }
+  .open-btn { background: #17a2b8; color: white; }
+  

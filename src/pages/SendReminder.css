@@ -1,0 +1,8 @@
+.send-reminder-container {
+    text-align: center;
+    padding: 50px;
+    background: linear-gradient(to right, #43cea2, #185a9d);
+    min-height: 100vh;
+    color: white;
+  }
+  
